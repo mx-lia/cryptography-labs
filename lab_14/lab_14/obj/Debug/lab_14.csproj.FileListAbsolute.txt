@@ -1,0 +1,9 @@
+D:\Study\Crypto\lab_14\lab_14\bin\Debug\lab_14.exe.config
+D:\Study\Crypto\lab_14\lab_14\bin\Debug\lab_14.exe
+D:\Study\Crypto\lab_14\lab_14\bin\Debug\lab_14.pdb
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.csprojAssemblyReference.cache
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.Form1.resources
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.Properties.Resources.resources
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.csproj.GenerateResource.cache
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.exe
+D:\Study\Crypto\lab_14\lab_14\obj\Debug\lab_14.pdb

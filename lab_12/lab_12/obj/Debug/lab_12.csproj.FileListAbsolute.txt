@@ -1,0 +1,6 @@
+D:\Study\Crypto\lab_12\lab_12\bin\Debug\lab_12.exe.config
+D:\Study\Crypto\lab_12\lab_12\bin\Debug\lab_12.exe
+D:\Study\Crypto\lab_12\lab_12\bin\Debug\lab_12.pdb
+D:\Study\Crypto\lab_12\lab_12\obj\Debug\lab_12.csprojAssemblyReference.cache
+D:\Study\Crypto\lab_12\lab_12\obj\Debug\lab_12.exe
+D:\Study\Crypto\lab_12\lab_12\obj\Debug\lab_12.pdb
